@@ -10,6 +10,14 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "JoystickPlugin-master",
+			"Enabled": false
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
 		}
 	]
 }
